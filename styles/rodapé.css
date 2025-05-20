@@ -1,0 +1,31 @@
+.rodapé {
+    display: flex;
+    background-color: var(--magenta);
+    padding: 1em;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    width:100%;
+}
+
+.rodapé__título {
+    font-size: 24px;
+}
+
+.lista-rodapé__link{
+    color: var(--black);
+}
+
+.lista-rodapé__item {
+    display: flex;
+    align-items: center;
+    margin: 0.2em 0;
+}
+
+.lista-rodapé__colunas {
+    display: flex;
+}
+
+.lista-rodapé__dois {
+    margin-left: 1.2em;
+}

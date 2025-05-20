@@ -1,0 +1,23 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/rodapé.css");
+
+:root {
+    --magenta: #C73867;
+    --lilás: #fae3ed;
+    --laranja: #FF794A;
+    --rosa-claro: #FD4C87;
+    --preto: #000000;
+    --branco: #ffffff;
+    --cinza-claro: #a8a8a8;
+    --fonte-principal: "Poetsen One";
+    --fonte-título: "Bangers";
+}
+
+
+body{
+    background-color: var(--lilás);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}

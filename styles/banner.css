@@ -1,0 +1,27 @@
+.banner{
+    color: var(--preto);
+    text-align: center;
+    padding: 2.5em 2em;
+    border-bottom: 1px solid var(--cinza-claro);
+    display: flex;
+    align-items: center;
+}
+
+.banner__titulo{
+    font-size: 48px;
+}
+
+.banner__texto {
+    font-size: 20px;
+    margin: 2em 0;
+}
+
+.banner__pesquisa{
+    background-color: transparent;
+    border: 1px solid var(--preto);
+    color: var(--preto);
+    border-radius: 24px;
+    padding: 1em;
+    width: 50%;
+    text-align: center;
+}
