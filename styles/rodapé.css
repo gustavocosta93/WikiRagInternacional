@@ -23,10 +23,9 @@
 .lista-rodapé__item {
     display: flex;
     align-items: center;
-    margin: 0.2em 0;
+    margin: 1em 0;
 }
 
-
-.lista-rodapé__dois {
-    margin-left: 1.2em;
+.rodapé__redes {
+    margin: 1em;
 }

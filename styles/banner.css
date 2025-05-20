@@ -1,10 +1,13 @@
 .banner{
     color: var(--preto);
+    justify-content: space-around;
+    align-items: center;
     text-align: center;
     padding: 2.5em 1em 2.5em 2em;
     border-bottom: 5px solid var(--cinza-claro);
+    height: 100%;
     display: flex;
-    align-items: center;
+    margin:auto;
 }
 
 .banner__titulo{
